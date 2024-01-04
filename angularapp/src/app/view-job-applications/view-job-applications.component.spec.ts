@@ -41,7 +41,6 @@ describe('ViewJobApplicationsComponent', () => {
     expect(component['jobApplications']).toEqual(mockApplications);
     console.log("byeee"+mockApplications);
     console.log(mockApplications);
-    console.log(component.jobApplications);
 
 
   });
